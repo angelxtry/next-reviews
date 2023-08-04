@@ -5,6 +5,6 @@ const HollowKnightPage = () => {
       <p>...</p>
     </div>
   );
-}
+};
 
 export default HollowKnightPage;
