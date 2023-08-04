@@ -1,5 +1,12 @@
+import { Heading } from '../components/heading';
+
 const HomePage = () => {
-  return <h1>Home Page - Hello World</h1>;
+  return (
+    <>
+      <Heading>Indie Gamer</Heading>
+      <p>Only the best indie games, reviewed for you.</p>
+    </>
+  );
 };
 
 export default HomePage;

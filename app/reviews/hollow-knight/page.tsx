@@ -1,7 +1,9 @@
+import { Heading } from '../../../components/heading';
+
 const HollowKnightPage = () => {
   return (
     <div>
-      <h1>Hollow Knight</h1>
+      <Heading>Hollow Knight</Heading>
       <p>...</p>
     </div>
   );

@@ -1,5 +1,7 @@
+import { Heading } from '../../components/heading';
+
 const AboutPage = () => {
-  return <h1>About</h1>;
+  return <Heading>About</Heading>;
 };
 
 export default AboutPage;

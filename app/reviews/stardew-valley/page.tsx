@@ -1,5 +1,7 @@
+import { Heading } from '../../../components/heading';
+
 const StardewValleyPage = () => {
-  return <h1>Stardew Valley Reviews</h1>;
+  return <Heading>Stardew Valley Reviews</Heading>;
 };
 
 export default StardewValleyPage;
