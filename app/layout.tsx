@@ -2,7 +2,7 @@ import './globals.css';
 
 import { ReactNode } from 'react';
 
-import { NavBar } from '../components/nav-bar';
+import { NavBar } from '@/components/nav-bar';
 
 interface RootLayoutProps {
   children: ReactNode;

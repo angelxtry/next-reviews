@@ -1,6 +1,6 @@
 import Link from 'next/link';
 
-import { Heading } from '../../components/heading';
+import { Heading } from '@/components/heading';
 
 const ReviewsPage = () => {
   return (
