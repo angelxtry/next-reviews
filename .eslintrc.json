@@ -13,10 +13,11 @@
     "next/core-web-vitals",
     "eslint:recommended",
     "plugin:@typescript-eslint/recommended",
+    "plugin:tailwindcss/recommended",
     "eslint-config-prettier",
     "plugin:import/recommended"
   ],
-  "plugins": ["react", "@typescript-eslint", "import", "unused-imports"],
+  "plugins": ["react", "@typescript-eslint", "tailwindcss", "import", "unused-imports"],
   "rules": {
     "@next/next/no-html-link-for-pages": "off",
     "react/jsx-key": "error",
@@ -89,6 +90,11 @@
         "ignoreOnInitialization": false
       }
     ]
+  },
+  "settings": {
+    "tailwindcss": {
+      "callees": ["cn", "cva"]
+    }
   },
   "overrides": [
     {
