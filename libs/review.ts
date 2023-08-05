@@ -11,10 +11,14 @@ const getReview = async (slug: string) => {
   return { slug, title, date, image, body };
 };
 
-const getReviews = async () => {
+const getSlugs = async () => {
   const files = await readdir('./contents/reviews');
-  const slugs = files.filter((file) => file.endsWith('.md')).map((file) => file.replace('.md', ''));
+  return files.filter((file) => file.endsWith('.md')).map((file) => file.replace('.md', ''));
+};
+
+const getReviews = async () => {
+  const slugs = await getSlugs();
   return await Promise.all(slugs.map((slug) => getReview(slug)));
 };
 
-export { getReview, getReviews };
+export { getReview, getSlugs, getReviews };

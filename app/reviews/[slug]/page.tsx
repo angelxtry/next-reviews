@@ -1,5 +1,10 @@
 import { Heading } from '@/components/heading';
-import { getReview } from '@/libs/review';
+import { getReview, getSlugs } from '@/libs/review';
+
+const generateStaticParams = async () => {
+  const slugs = await getSlugs();
+  return slugs.map((slug) => ({ slug }));
+};
 
 interface ReviewPageProps {
   params: { slug: string };
@@ -7,6 +12,7 @@ interface ReviewPageProps {
 
 const ReviewPage = async ({ params: { slug } }: ReviewPageProps) => {
   const { title, date, image, body } = await getReview(slug);
+  console.log('ReviewPage', slug);
 
   return (
     <div>
@@ -21,4 +27,5 @@ const ReviewPage = async ({ params: { slug } }: ReviewPageProps) => {
   );
 };
 
+export { generateStaticParams };
 export default ReviewPage;
