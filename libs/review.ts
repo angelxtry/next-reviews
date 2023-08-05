@@ -5,10 +5,8 @@ import { marked } from 'marked';
 
 const getReview = async (slug: string) => {
   const text = await readFile(`./contents/reviews/${slug}.md`, 'utf-8');
-  const {
-    content,
-    data: { title, date, image },
-  } = matter(text);
+  const { content, data } = matter(text);
+  const { title, date, image } = data as { title: string; date: string; image: string };
   const body = marked(content);
   return { title, date, image, body };
 };
