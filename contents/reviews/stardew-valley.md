@@ -1,12 +1,4 @@
-# Stardew valley
+__Stardew Valley__ is a simulation role-playing video game developed by Eric "ConcernedApe" Barone. Players take the role of a character who inherits their deceased grandfather's dilapidated farm in a place known as Stardew Valley. The game was released for Windows in February 2016 before being ported to other platforms. Stardew Valley is open-ended, allowing players to grow crops, raise livestock, fish, cook, mine, forage, and socialize with the townspeople, including the ability to marry and have children. It allows up to four players to play online together.
 
-## About
+Barone developed Stardew Valley by himself over four and a half years. He was heavily inspired by the Story of Seasons series, with additions to address some of the shortcomings of those games. He used it as an exercise to improve his own programming and game design skills. British studio Chucklefish approached Barone midway through development with the offer to publish the game, allowing him to focus more on completing it.
 
-The hero (in the beginning you can choose gender, name and appearance) - an office worker who inherited an abandoned farm. The landscape of the farm can also be selected. For example, you can decide whether there will be a river nearby for fishing.
-The farm area needs to be cleared, and it will take time.
-The hero has many different activities: plant and care for plants, raise livestock, practice crafts, extract ore, and also enter into relationships with residents of the neighbouring town to earn game money. Relationships with characters include communication, performing tasks for money, exchanging, searching for fossils and even military actions and marrying. The character is limited by the reserve of strength and health - both parameters are visible on the screen, and the game automatically puts the hero to rest if the limit of his capabilities is close. The game does not set any ultimate or primary goal, its many possibilities are designed for an unlimited time.
-
-## list
-* item 1
-* item 2
-* item 3

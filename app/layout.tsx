@@ -18,7 +18,7 @@ const RootLayout = ({ children }: RootLayoutProps) => {
 
         <main className="grow py-3">{children}</main>
 
-        <footer className="border-t py-3 text-center text-xs">
+        <footer className="border-t py-3 text-center text-xs text-slate-500">
           Game data and images courtesy of{' '}
           <a href="https://rawg.io/" target="_blank" className="text-orange-800 hover:underline">
             RAWG

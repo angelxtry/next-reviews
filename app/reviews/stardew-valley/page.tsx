@@ -18,7 +18,10 @@ const StardewValleyPage = async () => {
         height="360"
         className="mb-2 rounded"
       />
-      <article dangerouslySetInnerHTML={{ __html: html }} />
+      <article
+        dangerouslySetInnerHTML={{ __html: html }}
+        className="prose prose-slate max-w-screen-sm"
+      />
     </div>
   );
 };
