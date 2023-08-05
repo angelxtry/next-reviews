@@ -1,6 +1,13 @@
+import { readFile } from 'node:fs/promises';
+
+import { marked } from 'marked';
+
 import { Heading } from '@/components/heading';
 
-const StardewValleyPage = () => {
+const StardewValleyPage = async () => {
+  const text = await readFile('./contents/reviews/stardew-valley.md', 'utf-8');
+  const html = marked(text);
+
   return (
     <div>
       <Heading>Stardew Valley</Heading>
@@ -11,7 +18,7 @@ const StardewValleyPage = () => {
         height="360"
         className="mb-2 rounded"
       />
-      <p>This will be the review for Stardew Valley</p>
+      <article dangerouslySetInnerHTML={{ __html: html }} />
     </div>
   );
 };
