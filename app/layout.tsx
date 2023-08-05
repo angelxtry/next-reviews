@@ -2,6 +2,7 @@ import './globals.css';
 
 import { ReactNode } from 'react';
 
+import { exo2, orbitron } from '@/app/fonts';
 import { NavBar } from '@/components/nav-bar';
 
 interface RootLayoutProps {
@@ -9,7 +10,7 @@ interface RootLayoutProps {
 }
 const RootLayout = ({ children }: RootLayoutProps) => {
   return (
-    <html lang="en">
+    <html lang="en" className={`${orbitron.variable} ${exo2.variable}`}>
       <body className="flex min-h-screen flex-col bg-orange-50 px-4 py-2">
         <header>
           <NavBar />
