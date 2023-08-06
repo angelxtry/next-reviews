@@ -18,7 +18,13 @@ const getSlugs = async () => {
 
 const getReviews = async () => {
   const slugs = await getSlugs();
-  return await Promise.all(slugs.map((slug) => getReview(slug)));
+  const reviews = await Promise.all(slugs.map((slug) => getReview(slug)));
+  return reviews.sort((a, b) => b.date.localeCompare(a.date));
 };
 
-export { getReview, getSlugs, getReviews };
+const getFeaturedReviews = async () => {
+  const reviews = await getReviews();
+  return reviews[0];
+};
+
+export { getReview, getSlugs, getReviews, getFeaturedReviews };
