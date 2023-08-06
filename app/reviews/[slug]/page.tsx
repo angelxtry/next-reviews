@@ -1,15 +1,10 @@
 import { Heading } from '@/components/heading';
 import { ShareLinkButton } from '@/components/share-link-button';
-import { getReview, getSlugs } from '@/libs/review';
+import { getReview } from '@/libs/review';
 
 interface Props {
   params: { slug: string };
 }
-
-const generateStaticParams = async () => {
-  const slugs = await getSlugs();
-  return slugs.map((slug) => ({ slug }));
-};
 
 const generateMetadata = async ({ params: { slug } }: Props) => {
   const { title } = await getReview(slug);
@@ -37,5 +32,5 @@ const ReviewPage = async ({ params: { slug } }: Props) => {
   );
 };
 
-export { generateStaticParams, generateMetadata };
+export { generateMetadata };
 export default ReviewPage;
