@@ -5,6 +5,14 @@ import { ReactNode } from 'react';
 import { exo2, orbitron } from '@/app/fonts';
 import { NavBar } from '@/components/nav-bar';
 
+const metadata = {
+  title: {
+    default: 'Indie Gamer',
+    template: '%s | Indie Gamer',
+  },
+  description: 'Only the best indie games, reviewed for you.',
+};
+
 interface RootLayoutProps {
   children: ReactNode;
 }
@@ -29,4 +37,5 @@ const RootLayout = ({ children }: RootLayoutProps) => {
   );
 };
 
+export { metadata };
 export default RootLayout;

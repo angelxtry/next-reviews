@@ -3,6 +3,10 @@ import Link from 'next/link';
 import { Heading } from '@/components/heading';
 import { getReviews } from '@/libs/review';
 
+const metadata = {
+  title: 'Reviews',
+};
+
 const ReviewsPage = async () => {
   const reviews = await getReviews();
 
@@ -26,4 +30,5 @@ const ReviewsPage = async () => {
   );
 };
 
+export { metadata };
 export default ReviewsPage;
