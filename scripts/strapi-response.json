@@ -1,0 +1,763 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "attributes": {
+        "title": "Stardew Valley",
+        "body": "**Stardew Valley** creator Eric Barone - best known as ConcernedApe - has posted a new developer update outlining future plans for the game and briefly touching on his new project set in the same universe as the existing release. Here's what he had to say about this new title:\n\n> \"As many of you know, I’ve been working on a new game for a while. I haven’t revealed anything about it, except that it takes place in the same universe as Stardew Valley. I’ve been deliberately secretive about it because I want to be able to work on it without any pressure for the time being. I also want to make sure the concept is fully realized before revealing anything, because once it’s out there, I’m going to have to fully commit to it. I’m a pretty cautious person when it comes to this sort of thing.\"\n\nHe went on to explain how he still planned to work on new content for Stardew Valley and would be forming a team to help rollout future update for the games:\n\n> \"For a while, I considered being finished with Stardew Valley altogether. But that would make me (and many others) sad. So I’ve decided that I’m going to form a team to help me work on future Stardew Valley content. The update I’m working on right now (1.4) will be another solo update, but after that I hope to have a team in place that I can work closely with on future content.\"\n\n",
+        "createdAt": "2023-08-06T13:10:52.267Z",
+        "updatedAt": "2023-08-06T13:38:50.888Z",
+        "publishedAt": "2023-08-06T13:11:06.365Z",
+        "subtitle": "Stardew Valley Creator Working On New Game Set In The Same Universe",
+        "slug": "stardew-valley",
+        "image": {
+          "data": [
+            {
+              "id": 2,
+              "attributes": {
+                "name": "stardew-valley.webp",
+                "alternativeText": null,
+                "caption": null,
+                "width": 1280,
+                "height": 720,
+                "formats": {
+                  "thumbnail": {
+                    "name": "thumbnail_stardew-valley.webp",
+                    "hash": "thumbnail_stardew_valley_8cfff22c00",
+                    "ext": ".webp",
+                    "mime": "image/webp",
+                    "path": null,
+                    "width": 245,
+                    "height": 138,
+                    "size": 6.11,
+                    "url": "/uploads/thumbnail_stardew_valley_8cfff22c00.webp"
+                  },
+                  "medium": {
+                    "name": "medium_stardew-valley.webp",
+                    "hash": "medium_stardew_valley_8cfff22c00",
+                    "ext": ".webp",
+                    "mime": "image/webp",
+                    "path": null,
+                    "width": 750,
+                    "height": 422,
+                    "size": 25.83,
+                    "url": "/uploads/medium_stardew_valley_8cfff22c00.webp"
+                  },
+                  "large": {
+                    "name": "large_stardew-valley.webp",
+                    "hash": "large_stardew_valley_8cfff22c00",
+                    "ext": ".webp",
+                    "mime": "image/webp",
+                    "path": null,
+                    "width": 1000,
+                    "height": 562,
+                    "size": 35.79,
+                    "url": "/uploads/large_stardew_valley_8cfff22c00.webp"
+                  },
+                  "small": {
+                    "name": "small_stardew-valley.webp",
+                    "hash": "small_stardew_valley_8cfff22c00",
+                    "ext": ".webp",
+                    "mime": "image/webp",
+                    "path": null,
+                    "width": 500,
+                    "height": 281,
+                    "size": 15.68,
+                    "url": "/uploads/small_stardew_valley_8cfff22c00.webp"
+                  }
+                },
+                "hash": "stardew_valley_8cfff22c00",
+                "ext": ".webp",
+                "mime": "image/webp",
+                "size": 57.23,
+                "url": "/uploads/stardew_valley_8cfff22c00.webp",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "createdAt": "2023-08-06T13:38:46.252Z",
+                "updatedAt": "2023-08-06T13:38:46.252Z"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 2,
+      "attributes": {
+        "title": "Hollow Knight",
+        "body": "**About**\n\nHollow Knight: Silksong is the epic sequel to Hollow Knight, the epic action-adventure of bugs and heroes. As the lethal hunter Hornet, journey to all-new lands, discover new powers, battle vast hordes of bugs and beasts and uncover ancient secrets tied to your nature and your past.\n\n**Hollow Knight** is a 2017 Metroidvania video game developed and published by independent developer Team Cherry. In the game, the player controls the Knight, a nameless insectoid warrior, who explores Hallownest, a fallen kingdom plagued by a supernatural disease, known as the infection. The game is set in diverse subterranean locations, featuring friendly and hostile insectoid characters and numerous bosses. Players have the opportunity to unlock new abilities as they explore each location, along with pieces of lore and flavour text that are spread throughout the kingdom.",
+        "createdAt": "2023-08-06T13:11:31.053Z",
+        "updatedAt": "2023-08-06T13:45:43.878Z",
+        "publishedAt": "2023-08-06T13:11:31.881Z",
+        "subtitle": "The Pale King. In attempting the feat, one proves their courage. May your Shade at last find rest.",
+        "slug": "hollow-knight",
+        "image": {
+          "data": [
+            {
+              "id": 3,
+              "attributes": {
+                "name": "hollow-knight.jpg",
+                "alternativeText": null,
+                "caption": null,
+                "width": 1280,
+                "height": 720,
+                "formats": {
+                  "thumbnail": {
+                    "name": "thumbnail_hollow-knight.jpg",
+                    "hash": "thumbnail_hollow_knight_269943c878",
+                    "ext": ".jpg",
+                    "mime": "image/jpeg",
+                    "path": null,
+                    "width": 245,
+                    "height": 138,
+                    "size": 10.15,
+                    "url": "/uploads/thumbnail_hollow_knight_269943c878.jpg"
+                  },
+                  "medium": {
+                    "name": "medium_hollow-knight.jpg",
+                    "hash": "medium_hollow_knight_269943c878",
+                    "ext": ".jpg",
+                    "mime": "image/jpeg",
+                    "path": null,
+                    "width": 750,
+                    "height": 422,
+                    "size": 53.22,
+                    "url": "/uploads/medium_hollow_knight_269943c878.jpg"
+                  },
+                  "small": {
+                    "name": "small_hollow-knight.jpg",
+                    "hash": "small_hollow_knight_269943c878",
+                    "ext": ".jpg",
+                    "mime": "image/jpeg",
+                    "path": null,
+                    "width": 500,
+                    "height": 281,
+                    "size": 30.03,
+                    "url": "/uploads/small_hollow_knight_269943c878.jpg"
+                  },
+                  "large": {
+                    "name": "large_hollow-knight.jpg",
+                    "hash": "large_hollow_knight_269943c878",
+                    "ext": ".jpg",
+                    "mime": "image/jpeg",
+                    "path": null,
+                    "width": 1000,
+                    "height": 563,
+                    "size": 80.67,
+                    "url": "/uploads/large_hollow_knight_269943c878.jpg"
+                  }
+                },
+                "hash": "hollow_knight_269943c878",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "size": 117.62,
+                "url": "/uploads/hollow_knight_269943c878.jpg",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "createdAt": "2023-08-06T13:39:38.736Z",
+                "updatedAt": "2023-08-06T13:39:38.736Z"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 3,
+      "attributes": {
+        "title": "Vampire: The Masquerade - Bloodlines 2",
+        "body": "**About this game**\nAre you ready to enter the dark world of Vampire: The Masquerade? Bloodlines 2 is the much-anticipated sequel to the hugely successful RPG, from developer Hardsuit Labs and publisher Paradox Interactive.\n\n* Explore Seattle’s Dark Heart\nThis time around, you'll be playing as a vampire in the World of Darkness, where you'll have to contend with rival factions and grapple with your own bloodthirsty nature. Choose your Clan, customise your vampire, and engage in powerful combo-based fighting as you explore the dark alleys and hidden underground of Seattle.\n\n* Choose Your Side\nThis time around, the stakes are even higher, as a Mass Embrace threatens to tear the vampire world apart. Choose your side carefully – your status as a newly turned vampire could benefit some more than others. The game features an immersive and detailed setting, multi-faceted characters, intense action, and moral choices that will reverberate through the game world.\n\n* Uphold The Masquerade\nWhichever path you choose, prepare for a game that is dark, erotic and utterly addictive. With amazing graphics and an immersive storyline, Vampire: The Masquerade – Bloodlines 2 is one eagerly anticipated game.",
+        "createdAt": "2023-08-06T13:36:22.667Z",
+        "updatedAt": "2023-08-06T13:36:24.958Z",
+        "publishedAt": "2023-08-06T13:36:24.956Z",
+        "subtitle": "About Vampire: The Masquerade - Bloodlines 2",
+        "slug": "vampire-the-masquerade-bloodlines-2",
+        "image": {
+          "data": [
+            {
+              "id": 1,
+              "attributes": {
+                "name": "Vampire- The Masquerade - Bloodlines 2.jpeg",
+                "alternativeText": null,
+                "caption": null,
+                "width": 1280,
+                "height": 720,
+                "formats": {
+                  "thumbnail": {
+                    "name": "thumbnail_Vampire- The Masquerade - Bloodlines 2.jpeg",
+                    "hash": "thumbnail_Vampire_The_Masquerade_Bloodlines_2_fb490e6aa2",
+                    "ext": ".jpeg",
+                    "mime": "image/jpeg",
+                    "path": null,
+                    "width": 245,
+                    "height": 138,
+                    "size": 8.34,
+                    "url": "/uploads/thumbnail_Vampire_The_Masquerade_Bloodlines_2_fb490e6aa2.jpeg"
+                  },
+                  "medium": {
+                    "name": "medium_Vampire- The Masquerade - Bloodlines 2.jpeg",
+                    "hash": "medium_Vampire_The_Masquerade_Bloodlines_2_fb490e6aa2",
+                    "ext": ".jpeg",
+                    "mime": "image/jpeg",
+                    "path": null,
+                    "width": 750,
+                    "height": 422,
+                    "size": 52.32,
+                    "url": "/uploads/medium_Vampire_The_Masquerade_Bloodlines_2_fb490e6aa2.jpeg"
+                  },
+                  "small": {
+                    "name": "small_Vampire- The Masquerade - Bloodlines 2.jpeg",
+                    "hash": "small_Vampire_The_Masquerade_Bloodlines_2_fb490e6aa2",
+                    "ext": ".jpeg",
+                    "mime": "image/jpeg",
+                    "path": null,
+                    "width": 500,
+                    "height": 281,
+                    "size": 27.11,
+                    "url": "/uploads/small_Vampire_The_Masquerade_Bloodlines_2_fb490e6aa2.jpeg"
+                  },
+                  "large": {
+                    "name": "large_Vampire- The Masquerade - Bloodlines 2.jpeg",
+                    "hash": "large_Vampire_The_Masquerade_Bloodlines_2_fb490e6aa2",
+                    "ext": ".jpeg",
+                    "mime": "image/jpeg",
+                    "path": null,
+                    "width": 1000,
+                    "height": 563,
+                    "size": 83.58,
+                    "url": "/uploads/large_Vampire_The_Masquerade_Bloodlines_2_fb490e6aa2.jpeg"
+                  }
+                },
+                "hash": "Vampire_The_Masquerade_Bloodlines_2_fb490e6aa2",
+                "ext": ".jpeg",
+                "mime": "image/jpeg",
+                "size": 123.36,
+                "url": "/uploads/Vampire_The_Masquerade_Bloodlines_2_fb490e6aa2.jpeg",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "createdAt": "2023-08-06T13:35:12.547Z",
+                "updatedAt": "2023-08-06T13:35:12.547Z"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 4,
+      "attributes": {
+        "title": "Baldur's Gate III",
+        "body": "**Baldur's Gate III** is a role-playing video game developed and published by Larian Studios. It is the third main game in the Baldur's Gate series, which is based on the Dungeons & Dragons tabletop role-playing system. A partial version of the game was released in early access format for macOS, Windows, and the Stadia streaming service, on 6 October 2020. The game remained in early access until its full release on Windows on 3 August 2023. macOS and PlayStation 5 versions are scheduled for 6 September 2023, and an Xbox Series X/S port with an unknown release date. The Stadia version was cancelled following Stadia's closure. The game received critical acclaim upon release.",
+        "createdAt": "2023-08-06T13:48:18.537Z",
+        "updatedAt": "2023-08-06T13:48:20.023Z",
+        "publishedAt": "2023-08-06T13:48:20.021Z",
+        "subtitle": "Larian better get back into their customary form on this game pretty darn quick. The new Pathfinder beats it in just about every category, and it ain't close.",
+        "slug": "baldurs-gate-iii",
+        "image": {
+          "data": [
+            {
+              "id": 4,
+              "attributes": {
+                "name": "baldurs-gate-iii.webp",
+                "alternativeText": null,
+                "caption": null,
+                "width": 1280,
+                "height": 720,
+                "formats": {
+                  "thumbnail": {
+                    "name": "thumbnail_baldurs-gate-iii.webp",
+                    "hash": "thumbnail_baldurs_gate_iii_651c510d39",
+                    "ext": ".webp",
+                    "mime": "image/webp",
+                    "path": null,
+                    "width": 245,
+                    "height": 138,
+                    "size": 7.92,
+                    "url": "/uploads/thumbnail_baldurs_gate_iii_651c510d39.webp"
+                  },
+                  "small": {
+                    "name": "small_baldurs-gate-iii.webp",
+                    "hash": "small_baldurs_gate_iii_651c510d39",
+                    "ext": ".webp",
+                    "mime": "image/webp",
+                    "path": null,
+                    "width": 500,
+                    "height": 281,
+                    "size": 23.37,
+                    "url": "/uploads/small_baldurs_gate_iii_651c510d39.webp"
+                  },
+                  "large": {
+                    "name": "large_baldurs-gate-iii.webp",
+                    "hash": "large_baldurs_gate_iii_651c510d39",
+                    "ext": ".webp",
+                    "mime": "image/webp",
+                    "path": null,
+                    "width": 1000,
+                    "height": 562,
+                    "size": 61.65,
+                    "url": "/uploads/large_baldurs_gate_iii_651c510d39.webp"
+                  },
+                  "medium": {
+                    "name": "medium_baldurs-gate-iii.webp",
+                    "hash": "medium_baldurs_gate_iii_651c510d39",
+                    "ext": ".webp",
+                    "mime": "image/webp",
+                    "path": null,
+                    "width": 750,
+                    "height": 422,
+                    "size": 41.37,
+                    "url": "/uploads/medium_baldurs_gate_iii_651c510d39.webp"
+                  }
+                },
+                "hash": "baldurs_gate_iii_651c510d39",
+                "ext": ".webp",
+                "mime": "image/webp",
+                "size": 108.23,
+                "url": "/uploads/baldurs_gate_iii_651c510d39.webp",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "createdAt": "2023-08-06T13:48:16.084Z",
+                "updatedAt": "2023-08-06T13:48:16.084Z"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 5,
+      "attributes": {
+        "title": "The Legend of Zelda: Tears of the Kingdom",
+        "body": "There is a lot of text in **The Legend of Zelda: Tears of the Kingdom**. To Nintendo’s credit, they have gotten better with this series thanks to the last game including voice acting. Link is still silent and probably will be a silent protagonist until the end of time.\n\nFor some, it’s hard to forget how obnoxious he was in an 80s cartoon which is why Nintendo has probably been hesitant. Link’s silence aside, there are quite a few fun and dramatic quotes worth remembering in The Legend of Zelda: Tears of the Kingdom. There will be some spoilers although a majority of the story content isn’t given away.\n\n",
+        "createdAt": "2023-08-06T13:51:57.616Z",
+        "updatedAt": "2023-08-06T13:51:58.511Z",
+        "publishedAt": "2023-08-06T13:51:58.510Z",
+        "subtitle": "These are the most memorable lines from Nintendo's newest Zelda offering, Tears of the Kingdom.",
+        "slug": "the-legend-of-zelda-tears-of-the-kingdom",
+        "image": {
+          "data": [
+            {
+              "id": 5,
+              "attributes": {
+                "name": "the-legend-of-zelda-tears-of-the-kingdom.jpg",
+                "alternativeText": null,
+                "caption": null,
+                "width": 1280,
+                "height": 720,
+                "formats": {
+                  "thumbnail": {
+                    "name": "thumbnail_the-legend-of-zelda-tears-of-the-kingdom.jpg",
+                    "hash": "thumbnail_the_legend_of_zelda_tears_of_the_kingdom_e780e489d1",
+                    "ext": ".jpg",
+                    "mime": "image/jpeg",
+                    "path": null,
+                    "width": 245,
+                    "height": 138,
+                    "size": 10.24,
+                    "url": "/uploads/thumbnail_the_legend_of_zelda_tears_of_the_kingdom_e780e489d1.jpg"
+                  },
+                  "small": {
+                    "name": "small_the-legend-of-zelda-tears-of-the-kingdom.jpg",
+                    "hash": "small_the_legend_of_zelda_tears_of_the_kingdom_e780e489d1",
+                    "ext": ".jpg",
+                    "mime": "image/jpeg",
+                    "path": null,
+                    "width": 500,
+                    "height": 281,
+                    "size": 36.21,
+                    "url": "/uploads/small_the_legend_of_zelda_tears_of_the_kingdom_e780e489d1.jpg"
+                  },
+                  "large": {
+                    "name": "large_the-legend-of-zelda-tears-of-the-kingdom.jpg",
+                    "hash": "large_the_legend_of_zelda_tears_of_the_kingdom_e780e489d1",
+                    "ext": ".jpg",
+                    "mime": "image/jpeg",
+                    "path": null,
+                    "width": 1000,
+                    "height": 563,
+                    "size": 117.53,
+                    "url": "/uploads/large_the_legend_of_zelda_tears_of_the_kingdom_e780e489d1.jpg"
+                  },
+                  "medium": {
+                    "name": "medium_the-legend-of-zelda-tears-of-the-kingdom.jpg",
+                    "hash": "medium_the_legend_of_zelda_tears_of_the_kingdom_e780e489d1",
+                    "ext": ".jpg",
+                    "mime": "image/jpeg",
+                    "path": null,
+                    "width": 750,
+                    "height": 422,
+                    "size": 73.01,
+                    "url": "/uploads/medium_the_legend_of_zelda_tears_of_the_kingdom_e780e489d1.jpg"
+                  }
+                },
+                "hash": "the_legend_of_zelda_tears_of_the_kingdom_e780e489d1",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "size": 71.79,
+                "url": "/uploads/the_legend_of_zelda_tears_of_the_kingdom_e780e489d1.jpg",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "createdAt": "2023-08-06T13:51:52.479Z",
+                "updatedAt": "2023-08-06T13:51:52.479Z"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 6,
+      "attributes": {
+        "title": "Starfield",
+        "body": "Having been in the game since the mid-1980s, Bethesda is one of the longest-running high-profile Western developers out there, and the studio has only continued to grow in popularity over the last three decades. Getting its start with sports titles like Wayne Gretzky Hockey, Bethesda would go on to reach mainstream popularity with its The Elder Scrolls series, which began all the way back in 1994. The rest is history, and now Bethesda is one of the most renowned developers in the industry, with its next major AAA project, **Starfield**, dropping in just over a month.",
+        "createdAt": "2023-08-06T13:53:44.272Z",
+        "updatedAt": "2023-08-06T13:53:46.312Z",
+        "publishedAt": "2023-08-06T13:53:46.311Z",
+        "subtitle": "It's rare that a huge developer can get the chance to wipe the slate clean and start again, but that's exactly what Starfield is doing for Bethesda.",
+        "slug": "starfield",
+        "image": {
+          "data": [
+            {
+              "id": 6,
+              "attributes": {
+                "name": "starfield.jpg",
+                "alternativeText": null,
+                "caption": null,
+                "width": 1280,
+                "height": 720,
+                "formats": {
+                  "thumbnail": {
+                    "name": "thumbnail_starfield.jpg",
+                    "hash": "thumbnail_starfield_30ed6707e8",
+                    "ext": ".jpg",
+                    "mime": "image/jpeg",
+                    "path": null,
+                    "width": 245,
+                    "height": 138,
+                    "size": 8.07,
+                    "url": "/uploads/thumbnail_starfield_30ed6707e8.jpg"
+                  },
+                  "medium": {
+                    "name": "medium_starfield.jpg",
+                    "hash": "medium_starfield_30ed6707e8",
+                    "ext": ".jpg",
+                    "mime": "image/jpeg",
+                    "path": null,
+                    "width": 750,
+                    "height": 422,
+                    "size": 58.01,
+                    "url": "/uploads/medium_starfield_30ed6707e8.jpg"
+                  },
+                  "large": {
+                    "name": "large_starfield.jpg",
+                    "hash": "large_starfield_30ed6707e8",
+                    "ext": ".jpg",
+                    "mime": "image/jpeg",
+                    "path": null,
+                    "width": 1000,
+                    "height": 563,
+                    "size": 100.72,
+                    "url": "/uploads/large_starfield_30ed6707e8.jpg"
+                  },
+                  "small": {
+                    "name": "small_starfield.jpg",
+                    "hash": "small_starfield_30ed6707e8",
+                    "ext": ".jpg",
+                    "mime": "image/jpeg",
+                    "path": null,
+                    "width": 500,
+                    "height": 281,
+                    "size": 27.58,
+                    "url": "/uploads/small_starfield_30ed6707e8.jpg"
+                  }
+                },
+                "hash": "starfield_30ed6707e8",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "size": 158.9,
+                "url": "/uploads/starfield_30ed6707e8.jpg",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "createdAt": "2023-08-06T13:53:40.780Z",
+                "updatedAt": "2023-08-06T13:53:40.780Z"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 7,
+      "attributes": {
+        "title": "System Shock",
+        "body": "Originally released in 1994, **System Shock** has been hailed by many reviewers and fans as one of the greatest games ever. Newer fans of System Shock and fans of other series that wished to get into the classic would have had a very difficult time playing it, but that has changed with the release of the **System Shock Remake**, which has enhanced the game and reworked it to enthrall modern gaming audiences.",
+        "createdAt": "2023-08-06T13:56:10.432Z",
+        "updatedAt": "2023-08-06T13:56:12.110Z",
+        "publishedAt": "2023-08-06T13:56:12.108Z",
+        "subtitle": "SHODAN is easily one of the greatest video game villains thanks to her eerie, iconic quotes that return in the System Shock Remake.",
+        "slug": "system-shock",
+        "image": {
+          "data": [
+            {
+              "id": 7,
+              "attributes": {
+                "name": "system-shock.avif",
+                "alternativeText": null,
+                "caption": null,
+                "width": null,
+                "height": null,
+                "formats": null,
+                "hash": "system_shock_f9e253bbbf",
+                "ext": ".avif",
+                "mime": "image/avif",
+                "size": 45.61,
+                "url": "/uploads/system_shock_f9e253bbbf.avif",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "createdAt": "2023-08-06T13:55:44.015Z",
+                "updatedAt": "2023-08-06T13:55:44.015Z"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 8,
+      "attributes": {
+        "title": "Prince of Persia: The Sands of Time Remake",
+        "body": "Ubisoft has provided a much-needed update on the **Prince of Persia: Sands of Time Remake**, but it isn’t one that fans will be very happy with. The nostalgic remake has been in development over the past three years, but Prince of Persia: Sands of Time Remake has encountered several setbacks along the way, and it is still far from being released.",
+        "createdAt": "2023-08-06T13:57:56.482Z",
+        "updatedAt": "2023-08-06T13:57:57.533Z",
+        "publishedAt": "2023-08-06T13:57:57.532Z",
+        "subtitle": "Ubisoft finally provides an update on the Prince of Persia: Sands of Time Remake, but it is not something players were hoping for.",
+        "slug": "prince-of-persia-the-sands-of-time-remake",
+        "image": {
+          "data": [
+            {
+              "id": 8,
+              "attributes": {
+                "name": "prince-of-persia-sands-of-time-remake-ubisoft.avif",
+                "alternativeText": null,
+                "caption": null,
+                "width": null,
+                "height": null,
+                "formats": null,
+                "hash": "prince_of_persia_sands_of_time_remake_ubisoft_28ae5564d5",
+                "ext": ".avif",
+                "mime": "image/avif",
+                "size": 100.84,
+                "url": "/uploads/prince_of_persia_sands_of_time_remake_ubisoft_28ae5564d5.avif",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "createdAt": "2023-08-06T13:57:53.885Z",
+                "updatedAt": "2023-08-06T13:57:53.885Z"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 9,
+      "attributes": {
+        "title": "Final Fantasy XVI",
+        "body": "**Final Fantasy** is one of Square Enix's biggest franchises and the next game in the series has finally been revealed. It has been nearly six years since the release of Final Fantasy XV, which was met with a lot of backlash due to the cancellation of the remaining DLC as well as Final Fantasy Versus XIII. However, Square Enix has been making it up to fans this year by reviving Final Fantasy Versus XIII in the DLC for Kingdom Hearts III and expanding on Final Fantasy VII with a remake that pleased most players despite making a lot of changes.",
+        "createdAt": "2023-08-06T13:59:24.594Z",
+        "updatedAt": "2023-08-06T13:59:26.991Z",
+        "publishedAt": "2023-08-06T13:59:26.990Z",
+        "subtitle": "Most recently, Square Enix revealed Final Fantasy XVI during the PS5 Showcase. Here is what we learned and some questions we have.",
+        "slug": "final-fantasy-xvi",
+        "image": {
+          "data": [
+            {
+              "id": 9,
+              "attributes": {
+                "name": "final-fantasy-16-announcement-ps5.avif",
+                "alternativeText": null,
+                "caption": null,
+                "width": null,
+                "height": null,
+                "formats": null,
+                "hash": "final_fantasy_16_announcement_ps5_17ebc56b7b",
+                "ext": ".avif",
+                "mime": "image/avif",
+                "size": 57.74,
+                "url": "/uploads/final_fantasy_16_announcement_ps5_17ebc56b7b.avif",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "createdAt": "2023-08-06T13:59:16.380Z",
+                "updatedAt": "2023-08-06T13:59:16.380Z"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 10,
+      "attributes": {
+        "title": "Marvel's Spider-Man 2",
+        "body": "**Marvel’s Spider-Man 2** is shaping up to be a massive success. Not only did the first two games in the franchise sell incredibly well, guaranteeing a big fan base for the upcoming sequel, but Sony has been wise to treat the game like a big release. Alongside a collector’s edition for Marvel’s Spider-Man 2 with an impressive statue that shows Venom and the two wall-crawlers doing battle, a special console and controller have been created. Intriguingly, fans were also able to purchase the faceplates for the console separately.",
+        "createdAt": "2023-08-06T13:59:56.304Z",
+        "updatedAt": "2023-08-06T14:00:50.922Z",
+        "publishedAt": "2023-08-06T14:00:50.920Z",
+        "subtitle": "Marvel’s Spider-Man 2 has taken a clever approach to its limited-edition console, and hopefully more PlayStation exclusives will follow suit.",
+        "slug": "marvels-spider-man-2",
+        "image": {
+          "data": [
+            {
+              "id": 10,
+              "attributes": {
+                "name": "marvels-spider-man-2-key-art.avif",
+                "alternativeText": null,
+                "caption": null,
+                "width": null,
+                "height": null,
+                "formats": null,
+                "hash": "marvels_spider_man_2_key_art_d3dba7ed46",
+                "ext": ".avif",
+                "mime": "image/avif",
+                "size": 43.84,
+                "url": "/uploads/marvels_spider_man_2_key_art_d3dba7ed46.avif",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "createdAt": "2023-08-06T14:00:38.596Z",
+                "updatedAt": "2023-08-06T14:00:38.596Z"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 11,
+      "attributes": {
+        "title": "Little Devil Inside",
+        "body": "Interested gamers of **Little Devil Inside** may have been hoping for the action-adventure to release sometime in early 2022. The stylish Little Devil Inside was first revealed in 2020, but a recent delay had pushed the game to next year. However, a recent PlayStation Instagram post seems to inform that the wait may be a bit longer than some fans may like.",
+        "createdAt": "2023-08-06T14:02:31.799Z",
+        "updatedAt": "2023-08-06T14:02:32.589Z",
+        "publishedAt": "2023-08-06T14:02:32.588Z",
+        "subtitle": "Indie game Little Devil Inside from Neostream Interactive apparently will release in winter of 2022, a bit later than some fans were likely hoping.",
+        "slug": "little-devil-inside",
+        "image": {
+          "data": [
+            {
+              "id": 11,
+              "attributes": {
+                "name": "little-devil-inside-key-art-1.avif",
+                "alternativeText": null,
+                "caption": null,
+                "width": null,
+                "height": null,
+                "formats": null,
+                "hash": "little_devil_inside_key_art_1_0ea108fcb5",
+                "ext": ".avif",
+                "mime": "image/avif",
+                "size": 42.46,
+                "url": "/uploads/little_devil_inside_key_art_1_0ea108fcb5.avif",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "createdAt": "2023-08-06T14:02:29.411Z",
+                "updatedAt": "2023-08-06T14:02:29.411Z"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 12,
+      "attributes": {
+        "title": "Planet of Lana",
+        "body": "Indie developer Wishfully Studio's recently released puzzle game **Planet of Lana** is delivering a gorgeous cinematic adventure for players since its debut on May 23. After having caught the attention of the indie community as early as 2021, Planet of Lana is being praised for its visuals and gameplay by critics and players alike. On top of this, it's included in the Xbox Game Pass, which means those who have it can give the game a go without spending an extra $18 to $20.",
+        "createdAt": "2023-08-06T14:04:10.355Z",
+        "updatedAt": "2023-08-06T14:04:11.429Z",
+        "publishedAt": "2023-08-06T14:04:11.428Z",
+        "subtitle": "Wishfully Studio's newest game, Planet of Lana, is turning heads in the indie gaming community due to its stunning hand-painted visuals.",
+        "slug": "planet-of-lana",
+        "image": {
+          "data": [
+            {
+              "id": 12,
+              "attributes": {
+                "name": "planet-of-lana-1.avif",
+                "alternativeText": null,
+                "caption": null,
+                "width": null,
+                "height": null,
+                "formats": null,
+                "hash": "planet_of_lana_1_4a87d1d6e3",
+                "ext": ".avif",
+                "mime": "image/avif",
+                "size": 28.98,
+                "url": "/uploads/planet_of_lana_1_4a87d1d6e3.avif",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "createdAt": "2023-08-06T14:04:01.376Z",
+                "updatedAt": "2023-08-06T14:04:01.376Z"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 13,
+      "attributes": {
+        "title": "Street Fighter 6",
+        "body": "**Street Fighter 6** is almost here, and it's looking to be the most newcomer-friendly Street Fighter title yet. With a robust launch roster of eighteen characters, there’s a character for everyone to pick up, whether players prefer the offensive rushdown of Juri and Ken, or the defensive screen control of Guile and Ryu.",
+        "createdAt": "2023-08-06T14:06:32.409Z",
+        "updatedAt": "2023-08-06T14:06:33.056Z",
+        "publishedAt": "2023-08-06T14:06:33.055Z",
+        "subtitle": "Beginners of Street Fighter 6 should turn their eyes to these characters.",
+        "slug": "street-fighter-6",
+        "image": {
+          "data": [
+            {
+              "id": 13,
+              "attributes": {
+                "name": "sf6-poster.avif",
+                "alternativeText": null,
+                "caption": null,
+                "width": null,
+                "height": null,
+                "formats": null,
+                "hash": "sf6_poster_0dadae7748",
+                "ext": ".avif",
+                "mime": "image/avif",
+                "size": 136.58,
+                "url": "/uploads/sf6_poster_0dadae7748.avif",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "createdAt": "2023-08-06T14:06:15.298Z",
+                "updatedAt": "2023-08-06T14:06:15.298Z"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "meta": {
+    "pagination": {
+      "page": 1,
+      "pageSize": 25,
+      "pageCount": 1,
+      "total": 13
+    }
+  }
+}
