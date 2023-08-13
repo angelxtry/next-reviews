@@ -9,7 +9,7 @@ const metadata = {
 };
 
 const ReviewsPage = async () => {
-  const reviews = await getReviews();
+  const reviews = await getReviews(6);
 
   return (
     <div>

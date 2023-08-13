@@ -69,19 +69,14 @@ const getReview = async (slug: string) => {
   };
 };
 
-const getReviews = async () => {
+const getReviews = async (pageSize: number) => {
   const { data } = await fetchReviews({
     fields: ['slug', 'title', 'publishedAt'],
     populate: { image: { fields: ['url'] } },
     sort: ['publishedAt:desc'],
-    pagination: { pageSize: 6 },
+    pagination: { pageSize },
   });
   return data.map((item) => toReview(item));
-};
-
-const getFeaturedReviews = async () => {
-  const reviews = await getReviews();
-  return reviews[0];
 };
 
 const getSlugs = async () => {
@@ -93,4 +88,4 @@ const getSlugs = async () => {
   return data.map((item) => item.attributes.slug);
 };
 
-export { getReview, getReviews, getFeaturedReviews, getSlugs };
+export { getReview, getReviews, getSlugs };
