@@ -1,3 +1,5 @@
+import Image from 'next/image';
+
 import { Heading } from '@/components/heading';
 import { ShareLinkButton } from '@/components/share-link-button';
 import { getReview, getSlugs } from '@/libs/review';
@@ -28,7 +30,7 @@ const ReviewPage = async ({ params: { slug } }: Props) => {
         <p className="pb-2 italic">{date}</p>
         <ShareLinkButton />
       </div>
-      <img src={image} alt={title} width="640" height="360" className="mb-2 rounded" />
+      <Image src={image} alt={title} width="640" height="360" className="mb-2 rounded" />
       <article
         dangerouslySetInnerHTML={{ __html: body }}
         className="prose prose-slate max-w-screen-sm"
