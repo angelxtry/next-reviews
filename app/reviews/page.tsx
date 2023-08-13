@@ -4,6 +4,8 @@ import Link from 'next/link';
 import { Heading } from '@/components/heading';
 import { getReviews } from '@/libs/review';
 
+const dynamic = 'force-dynamic';
+
 const metadata = {
   title: 'Reviews',
 };
@@ -38,5 +40,5 @@ const ReviewsPage = async () => {
   );
 };
 
-export { metadata };
+export { dynamic, metadata };
 export default ReviewsPage;

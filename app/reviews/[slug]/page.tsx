@@ -2,22 +2,19 @@ import Image from 'next/image';
 
 import { Heading } from '@/components/heading';
 import { ShareLinkButton } from '@/components/share-link-button';
-import { getReview, getSlugs } from '@/libs/review';
+import { getReview } from '@/libs/review';
 
 interface Props {
   params: { slug: string };
 }
+
+const dynamic = 'force-dynamic';
 
 const generateMetadata = async ({ params: { slug } }: Props) => {
   const { title } = await getReview(slug);
   return {
     title,
   };
-};
-
-const generateStaticParams = async () => {
-  const reviews = await getSlugs();
-  return reviews.map((slug) => ({ slug }));
 };
 
 const ReviewPage = async ({ params: { slug } }: Props) => {
@@ -40,5 +37,5 @@ const ReviewPage = async ({ params: { slug } }: Props) => {
   );
 };
 
-export { generateMetadata, generateStaticParams };
+export { generateMetadata, dynamic };
 export default ReviewPage;
