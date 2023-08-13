@@ -84,4 +84,13 @@ const getFeaturedReviews = async () => {
   return reviews[0];
 };
 
-export { getReview, getReviews, getFeaturedReviews };
+const getSlugs = async () => {
+  const { data } = await fetchReviews({
+    fields: ['slug'],
+    sort: ['publishedAt:desc'],
+    pagination: { pageSize: 100 },
+  });
+  return data.map((item) => item.attributes.slug);
+};
+
+export { getReview, getReviews, getFeaturedReviews, getSlugs };
