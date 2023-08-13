@@ -62,6 +62,11 @@ const getReview = async (slug: string) => {
     sort: ['publishedAt:desc'],
     pagination: { pageSize: 1, withCount: false },
   });
+
+  if (!data.length) {
+    return null;
+  }
+
   const item = data[0];
   return {
     ...toReview(item),

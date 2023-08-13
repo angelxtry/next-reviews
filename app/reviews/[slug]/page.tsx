@@ -1,4 +1,5 @@
 import Image from 'next/image';
+import { notFound } from 'next/navigation';
 
 import { Heading } from '@/components/heading';
 import { ShareLinkButton } from '@/components/share-link-button';
@@ -11,14 +12,22 @@ interface Props {
 const dynamic = 'force-dynamic';
 
 const generateMetadata = async ({ params: { slug } }: Props) => {
-  const { title } = await getReview(slug);
+  const review = await getReview(slug);
+  if (!review) {
+    notFound();
+  }
   return {
-    title,
+    title: review.title,
   };
 };
 
 const ReviewPage = async ({ params: { slug } }: Props) => {
-  const { title, subtitle, date, image, body } = await getReview(slug);
+  const review = await getReview(slug);
+  if (!review) {
+    notFound();
+  }
+
+  const { title, subtitle, date, image, body } = review;
 
   return (
     <div>
