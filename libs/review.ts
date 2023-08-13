@@ -71,7 +71,7 @@ const getReview = async (slug: string) => {
 
 const getReviews = async (pageSize: number) => {
   const { data } = await fetchReviews({
-    fields: ['slug', 'title', 'publishedAt'],
+    fields: ['slug', 'title', 'subtitle', 'publishedAt'],
     populate: { image: { fields: ['url'] } },
     sort: ['publishedAt:desc'],
     pagination: { pageSize },

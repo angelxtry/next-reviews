@@ -16,11 +16,8 @@ const HomePage = async () => {
       <Heading>Indie Gamer</Heading>
       <p className="pb-3">Only the best indie games, reviewed for you.</p>
       <ul className="flex flex-col gap-3">
-        {reviews.map(({ slug, title, image }, index) => (
-          <li
-            key={slug}
-            className="w-80 rounded border bg-white font-orbitron font-semibold shadow hover:shadow-xl sm:w-full"
-          >
+        {reviews.map(({ slug, title, subtitle, image }, index) => (
+          <li key={slug} className="w-80 rounded border bg-white shadow hover:shadow-xl sm:w-full">
             <Link href={`/reviews/${slug}`} className="flex flex-col sm:flex-row">
               <Image
                 src={image}
@@ -30,7 +27,10 @@ const HomePage = async () => {
                 height="180"
                 className="rounded-t sm:rounded-l sm:rounded-r-none"
               />
-              <h2 className="py-1 text-center sm:px-2">{title}</h2>
+              <div className="px-2 py-1 text-center sm:text-left">
+                <h2 className="font-orbitron font-semibold">{title}</h2>
+                <p className="hidden pt-2 sm:block">{subtitle}</p>
+              </div>
             </Link>
           </li>
         ))}

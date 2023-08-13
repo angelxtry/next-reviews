@@ -21,11 +21,12 @@ const generateStaticParams = async () => {
 };
 
 const ReviewPage = async ({ params: { slug } }: Props) => {
-  const { title, date, image, body } = await getReview(slug);
+  const { title, subtitle, date, image, body } = await getReview(slug);
 
   return (
     <div>
       <Heading>{title}</Heading>
+      <p className="pb-3 font-semibold">{subtitle}</p>
       <div className="flex items-baseline gap-3">
         <p className="pb-2 italic">{date}</p>
         <ShareLinkButton />
